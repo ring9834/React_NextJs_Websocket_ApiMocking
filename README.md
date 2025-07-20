@@ -1,6 +1,7 @@
 # Use of React with NextJs, Websocket, and other techniques
 
 This enterprise scaffold now includes:
+
 Real-time data synchronization(Websocket)
 
 Multi-language support
